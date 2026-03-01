@@ -53,4 +53,4 @@ All functions are designed to be modular and reusable, which also makes the prog
 ## How to Run
 
 ```bash
-python project.py
+python3 project.py
